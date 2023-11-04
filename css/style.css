@@ -1,0 +1,17 @@
+/* slider img w-h*/
+.carousel-item img{
+        width: 100%;
+        height: 80vh;
+}
+/*google font css */
+.ab{
+    font-family: 'Dancing Script', cursive;
+}
+/*our team img */
+.card-body img{
+    min-width: 50%;
+    height: 40vh;
+}
+.card-body{
+    min-width: 50%;
+    max: height 80px;}
